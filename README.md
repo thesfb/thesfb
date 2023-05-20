@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesfb
 - 👀 I’m interested in Pentest and Python scripting
-- 🌱 I’m currently learning Kali, Python, C++
+- 🌱 I’m currently learning Kali, Python and OS architectures
 
 
 <!---
