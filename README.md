@@ -1,7 +1,5 @@
-Hello 
+👋 Hi, I'm Sudhanshu Bhardwaj,
 
+💻 Learning Rust for systems programming and Bash for automation. Python Experience 4+ years.
 
-<!---
-thesfb/thesfb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Always curious, always coding. Let's connect and learn together!
