@@ -1,34 +1,34 @@
 # Hi, I'm Sudhanshu Bhardwaj
 
-I work across systems engineering, security, and applied AI. Most of my focus is on backend tooling, low-level design, protocol behavior, and building reliable automation with LLMs.
+I work across systems engineering, security, and applied AI. My focus is on backend tooling, low-level design, protocol behavior, and building reliable automation with LLMs.
 
 ---
 
 ## Tech Stack
 
 ### Languages  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=red)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Move](https://img.shields.io/badge/Move-2A62F4?style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Move](https://img.shields.io/badge/Move-2A62F4?style=for-the-badge)
 
 ### Domains  
-![Systems](https://img.shields.io/badge/Systems%20Programming-333333?style=flat)
-![Security](https://img.shields.io/badge/Security-111111?style=flat)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-444444?style=flat)
-![Applied AI](https://img.shields.io/badge/Applied%20AI-0A66C2?style=flat)
+![Systems Programming](https://img.shields.io/badge/Systems%20Programming-333333?style=for-the-badge)  
+![Security](https://img.shields.io/badge/Security-111111?style=for-the-badge)  
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-444444?style=for-the-badge)  
+![Applied AI](https://img.shields.io/badge/Applied%20AI-0A66C2?style=for-the-badge)
 
 ### Tools  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
 ## What I Work On
-- Systems programming in Go, Rust
+- Systems programming in Go, Rust  
 - Backend engineering and CLI tooling  
 - Applied AI and LLM-based automation  
 - Security research, cryptography, CTFs, and protocol analysis  
@@ -37,6 +37,6 @@ I work across systems engineering, security, and applied AI. Most of my focus is
 ---
 
 ## Writing
-I occasionally write technical notes and breakdowns on my **Medium blog**.
+I share technical notes and breakdowns on my **Medium blog**, focusing security, systems, and concepts.
 
 ---
