@@ -8,7 +8,7 @@ I work across systems engineering, security, and applied AI. Most of my focus is
 
 ### Languages  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Move](https://img.shields.io/badge/Move-2A62F4?style=flat)
 
@@ -28,7 +28,7 @@ I work across systems engineering, security, and applied AI. Most of my focus is
 ---
 
 ## What I Work On
-- Systems programming in Go, Rust, and Move  
+- Systems programming in Go, Rust
 - Backend engineering and CLI tooling  
 - Applied AI and LLM-based automation  
 - Security research, cryptography, CTFs, and protocol analysis  
@@ -37,6 +37,6 @@ I work across systems engineering, security, and applied AI. Most of my focus is
 ---
 
 ## Writing
-I occasionally write technical notes and breakdowns on my **Medium blog**, focusing on AI, security, systems, and engineering principles.
+I occasionally write technical notes and breakdowns on my **Medium blog**.
 
 ---
