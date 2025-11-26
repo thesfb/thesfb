@@ -21,14 +21,15 @@ I work across systems engineering, security, and applied AI. My focus is on back
 ### Tools  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Ghidra](https://img.shields.io/badge/Ghidra-BE2A2C?style=for-the-badge&logo=ghidra&logoColor=white)
 
 ---
 
 ## What I Work On
-- Systems programming in Go, Rust  
+- Systems programming in Go, Rust
 - Backend engineering and CLI tooling  
 - Applied AI and LLM-based automation  
 - Security research, cryptography, CTFs, and protocol analysis  
@@ -37,6 +38,6 @@ I work across systems engineering, security, and applied AI. My focus is on back
 ---
 
 ## Writing
-I share technical notes and breakdowns on my **Medium blog**, focusing security, systems, and concepts.
+I share technical notes and breakdowns on my **Medium blog**, focusing on AI, security, systems, and concepts.
 
 ---
